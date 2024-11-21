@@ -14,7 +14,7 @@ En desarrollo web, es muy importante trabajar consumiendo datos desde diversas f
 
 Al pulsar sobre un botón, realizaremos la llamada a la API y mostraremos los datos de los post obtenidos, como en la siguiente imagen de muestra:
 
-<center><img src="image.png" /> </center>
+<div align="center"><img src="image.png" /></div>
 
 ## Requerimientos
 
